@@ -13,4 +13,16 @@ Mik - Kid Icarus (© Nintend) - edited by GeneratedKid
 Komayto - GeneratedKid
 PalutenaStatue - Super Mario Maker (© Ninetndo) - heavily altered by GeneratedKid
 
+SFX credits:
+Dark Pit - Kid Icarus Uprisng (© Sora, Nintendo)
+Underworld - Kid Icarus Uprising (© Sora, Nintendo)
+
+"ArrowSWOOSH"; "EnemyHURT"; "EnemySPAWN"; "playerHURT" - Kid Icarus (© Nintendo)
+
+Controls:
+LSHIFT - Start
+WASD / Arrow Keys - Move
+Space Bar - Shoot
+J - Activate / Deactivate ARROW OF LIGHT prototype
+
 Feedback and suggestions are welcome.
